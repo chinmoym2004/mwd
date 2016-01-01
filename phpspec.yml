@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: MWD
+        psr4_prefix: MWD
+        src_path: app
